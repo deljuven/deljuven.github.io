@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title: Site Title
-locale: en_US
-description: Describe your website here.
+title: Wuuuu's house
+locale: zh_CN
+description: Wu's personal blog for recording. 
 logo: site-logo.png
 search: true
 url: https://deljuven.github.com
@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: deljuven
-  avatar: bio-photo.jpg
+  avatar: avatar.png
   email: deljuven@126.com
   disqus-shortname:
   twitter: #username
