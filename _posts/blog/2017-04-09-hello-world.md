@@ -1,0 +1,17 @@
+---
+layout: post
+title: "The new entrance"
+modified:
+categories: blog
+excerpt:
+tags: []
+image:
+  feature:
+date: 2017-04-08T15:39:55-04:00
+modified: 2017-04-09T14:19:19-04:00
+---
+
+Personal site hosted on github, including technical notes and other personal things. Preferred to use markdown to write things, but how to differ it from a blog or an article. Later should fix it.
+
+[jekyll-gh]: https://github.com/jekyll/jekyll
+[jekyll]:    http://jekyllrb.com
